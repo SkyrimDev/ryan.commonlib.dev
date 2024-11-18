@@ -274,7 +274,7 @@ var menudata={children:[
 {text:"p",url:"functions_eval_p.html#index_p"},
 {text:"r",url:"functions_eval_r.html#index_r"},
 {text:"t",url:"functions_eval_t.html#index_t"}]},
-{text:"Related Symbols",url:"functions_rela.html",children:[
+{text:"Related Functions",url:"functions_rela.html",children:[
 {text:"b",url:"functions_rela.html#index_b"},
 {text:"c",url:"functions_rela.html#index_c"},
 {text:"g",url:"functions_rela.html#index_g"},
